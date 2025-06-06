@@ -86,6 +86,13 @@ Este projeto foi desenvolvido como parte do curso da **Escola da Nuvem**, com fo
    - Ative a opção e defina o documento de índice como `index.html`.
 5. Copie o **Endpoint do site** e teste em seu navegador.
 
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-57.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-58.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-02.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-03.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-07.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-10.png)
+
 ---
 
 ### 4. Tornando o Site Público (Permissões)
@@ -107,3 +114,29 @@ Este projeto foi desenvolvido como parte do curso da **Escola da Nuvem**, com fo
     }
   ]
 }
+
+```
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-11.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-12.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-13.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-14.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-14_1.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-15.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-16.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-16_1.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-20.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_17-21.png)
+
+### 5. Funcionamento
+O usuário digita um número de 1 a 10 e clica em "Enviar".
+
+O frontend envia a requisição para o API Gateway.
+
+O API Gateway chama a função Lambda.
+
+A função retorna se o palpite está certo ou errado.
+
+A resposta aparece diretamente no navegador!
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/Anima%C3%A7%C3%A3o.gif)
