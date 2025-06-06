@@ -1,5 +1,10 @@
 # 🎮 Jogo de Adivinhação na AWS (Serverless)
 
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/Zotar_game.jpg)
+
+**Curso: Developer – Escola da Nuvem**  
+**Autor: Halley Veras**
+
 Este projeto foi desenvolvido como parte do curso da **Escola da Nuvem**, com foco em construir uma aplicação serverless na AWS utilizando **Lambda**, **API Gateway** e **Amazon S3**.
 
 ## 📌 Objetivos do Laboratório
@@ -24,6 +29,15 @@ Este projeto foi desenvolvido como parte do curso da **Escola da Nuvem**, com fo
 7. Faça upload do arquivo `lambda_function.zip` disponibilizado no curso.
 8. Após o upload, clique em **Deploy**.
 
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-01.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-02.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-06.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-07.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-13.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-14.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-14_1.png)
+
 ---
 
 ### 2. Criando a API com Amazon API Gateway
@@ -40,6 +54,21 @@ Este projeto foi desenvolvido como parte do curso da **Escola da Nuvem**, com fo
    - `Access-Control-Allow-Origin`: `*`
    - `Access-Control-Allow-Headers`: `content-type`
    - `Access-Control-Allow-Methods`: `GET`
+
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-17.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-18.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-19.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-21.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-23.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-25.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-26.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-26_1.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-27.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-28.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-51.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-52.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-game-lab-developer-EDN/refs/heads/main/arquivos/2025-06-06_16-55.png)
+
 
 ---
 
